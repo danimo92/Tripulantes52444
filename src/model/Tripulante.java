@@ -61,4 +61,10 @@ public class Tripulante{
                 return nota3;
             }  
     }
+    public boolean checkIfPass(){
+        if(getAverage()<=3){
+            return true;
+        }
+        return false;
+    }
 }

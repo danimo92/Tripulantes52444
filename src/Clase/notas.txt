@@ -1,0 +1,4 @@
+La clase es una receta o descripción del comportamiento de un objeto
+El objeto es el que contiene información es quién existe.
+
+FORMADOR Y CURSO son clases de las cuales se crean objetos como el nombre del formador, el codigo del curso etc
